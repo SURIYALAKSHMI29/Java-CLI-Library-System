@@ -1,0 +1,22 @@
+[ {
+  "isbn" : 1,
+  "bookName" : "Agni Siragugal",
+  "userName" : "Suriya lakshmi",
+  "borrowDate" : "2025-04-30",
+  "returnDate" : "2025-04-30",
+  "phoneNumber" : "8220776273"
+}, {
+  "isbn" : 2,
+  "bookName" : "Nothing lasts forever",
+  "userName" : "Rajii",
+  "borrowDate" : "2025-04-30",
+  "returnDate" : null,
+  "phoneNumber" : "7010331682"
+}, {
+  "isbn" : 1,
+  "bookName" : "Agni Siragugal",
+  "userName" : "Rajii",
+  "borrowDate" : "2025-04-30",
+  "returnDate" : null,
+  "phoneNumber" : "7010331682"
+} ]

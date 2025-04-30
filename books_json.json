@@ -1,0 +1,16 @@
+[ {
+  "bookName" : "Agni Siragugal",
+  "authorName" : "Dr. Kalam",
+  "availableCount" : 40,
+  "isbn" : 1
+}, {
+  "bookName" : "Nothing lasts forever",
+  "authorName" : "Sidney Sheldon",
+  "availableCount" : 19,
+  "isbn" : 2
+}, {
+  "bookName" : "Stars Shine Down",
+  "authorName" : "Sidney Sheldon",
+  "availableCount" : 1,
+  "isbn" : 4
+} ]
